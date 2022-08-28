@@ -1,11 +1,20 @@
 {
   "files": {
-    "main.css": "/OldGzhatsk/static/css/main.068e9c0e.css",
-    "main.js": "/OldGzhatsk/static/js/main.51c8051e.js",
+    "main.css": "/OldGzhatsk/static/css/main.abbc1094.css",
+    "main.js": "/OldGzhatsk/static/js/main.e509ea48.js",
     "static/js/787.9f1de1c6.chunk.js": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js",
+    "static/media/1873_6.pdf": "/OldGzhatsk/static/media/1873_6.5feca60ef1cd2c28ce35.pdf",
+    "static/media/1873_5.pdf": "/OldGzhatsk/static/media/1873_5.13d99da180d1006f58de.pdf",
+    "static/media/1873_4.pdf": "/OldGzhatsk/static/media/1873_4.e4fc9560a480efbdd29a.pdf",
+    "static/media/1871_1.pdf": "/OldGzhatsk/static/media/1871_1.0636a6c33c985d077682.pdf",
     "static/media/bricks2.png": "/OldGzhatsk/static/media/bricks2.cbdd8228a6413ff2b158.png",
+    "static/media/1871_15.pdf": "/OldGzhatsk/static/media/1871_15.f6bc5d968020be822798.pdf",
+    "static/media/1870_12.pdf": "/OldGzhatsk/static/media/1870_12.736229ed6091cddbdcb6.pdf",
     "static/media/location2.png": "/OldGzhatsk/static/media/location2.14dcd34200173f0aa745.png",
+    "static/media/ModernistThree.ttf": "/OldGzhatsk/static/media/ModernistThree.95982d19883664569a0d.ttf",
     "static/media/location1.png": "/OldGzhatsk/static/media/location1.293f5153f9e11935b810.png",
+    "static/media/08.jpg": "/OldGzhatsk/static/media/08.16df579e4e240f2148c4.jpg",
+    "static/media/1870_15.pdf": "/OldGzhatsk/static/media/1870_15.681e17034225b3c22948.pdf",
     "static/media/07.jpg": "/OldGzhatsk/static/media/07.3fe629568bbd307ffe6a.jpg",
     "static/media/in-progress.png": "/OldGzhatsk/static/media/in-progress.e61988d11a5e2f3c5450.png",
     "static/media/main-background.jpg": "/OldGzhatsk/static/media/main-background.142a91ede66d2cac83a6.jpg",
@@ -13,18 +22,19 @@
     "static/media/05.jpg": "/OldGzhatsk/static/media/05.08907835e876f58efd4f.jpg",
     "static/media/bricks1.png": "/OldGzhatsk/static/media/bricks1.b49042f67dbbc646c1de.png",
     "static/media/02.jpg": "/OldGzhatsk/static/media/02.5ce39f8a3a645ee272af.jpg",
+    "static/media/KarnacOne.ttf": "/OldGzhatsk/static/media/KarnacOne.392f8ac74f33b549df80.ttf",
     "static/media/03.jpg": "/OldGzhatsk/static/media/03.fce020c10c9d9effebfc.jpg",
     "static/media/00.jpg": "/OldGzhatsk/static/media/00.4fee51b7c40e876819b4.jpg",
     "static/media/01.jpg": "/OldGzhatsk/static/media/01.f621686cc7773ef2453e.jpg",
     "static/media/06.jpg": "/OldGzhatsk/static/media/06.1ac767ac9e61d5ce1da0.jpg",
     "static/media/header-logo.png": "/OldGzhatsk/static/media/header-logo.68ea696b82d0bb65b213.png",
     "index.html": "/OldGzhatsk/index.html",
-    "main.068e9c0e.css.map": "/OldGzhatsk/static/css/main.068e9c0e.css.map",
-    "main.51c8051e.js.map": "/OldGzhatsk/static/js/main.51c8051e.js.map",
+    "main.abbc1094.css.map": "/OldGzhatsk/static/css/main.abbc1094.css.map",
+    "main.e509ea48.js.map": "/OldGzhatsk/static/js/main.e509ea48.js.map",
     "787.9f1de1c6.chunk.js.map": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.068e9c0e.css",
-    "static/js/main.51c8051e.js"
+    "static/css/main.abbc1094.css",
+    "static/js/main.e509ea48.js"
   ]
 }
