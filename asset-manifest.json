@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OldGzhatsk/static/css/main.7443a1bd.css",
-    "main.js": "/OldGzhatsk/static/js/main.e509ea48.js",
+    "main.css": "/OldGzhatsk/static/css/main.002f51c6.css",
+    "main.js": "/OldGzhatsk/static/js/main.55d554fd.js",
     "static/js/787.9f1de1c6.chunk.js": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js",
     "static/media/1873_6.pdf": "/OldGzhatsk/static/media/1873_6.5feca60ef1cd2c28ce35.pdf",
     "static/media/1873_5.pdf": "/OldGzhatsk/static/media/1873_5.13d99da180d1006f58de.pdf",
@@ -27,14 +27,15 @@
     "static/media/00.jpg": "/OldGzhatsk/static/media/00.4fee51b7c40e876819b4.jpg",
     "static/media/01.jpg": "/OldGzhatsk/static/media/01.f621686cc7773ef2453e.jpg",
     "static/media/06.jpg": "/OldGzhatsk/static/media/06.1ac767ac9e61d5ce1da0.jpg",
+    "static/media/location3.png": "/OldGzhatsk/static/media/location3.b64e3b497621382901d5.png",
     "static/media/header-logo.png": "/OldGzhatsk/static/media/header-logo.68ea696b82d0bb65b213.png",
     "index.html": "/OldGzhatsk/index.html",
-    "main.7443a1bd.css.map": "/OldGzhatsk/static/css/main.7443a1bd.css.map",
-    "main.e509ea48.js.map": "/OldGzhatsk/static/js/main.e509ea48.js.map",
+    "main.002f51c6.css.map": "/OldGzhatsk/static/css/main.002f51c6.css.map",
+    "main.55d554fd.js.map": "/OldGzhatsk/static/js/main.55d554fd.js.map",
     "787.9f1de1c6.chunk.js.map": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7443a1bd.css",
-    "static/js/main.e509ea48.js"
+    "static/css/main.002f51c6.css",
+    "static/js/main.55d554fd.js"
   ]
 }
