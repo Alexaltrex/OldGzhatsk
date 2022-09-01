@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/OldGzhatsk/static/css/main.002f51c6.css",
-    "main.js": "/OldGzhatsk/static/js/main.55d554fd.js",
+    "main.js": "/OldGzhatsk/static/js/main.2e4c73c1.js",
     "static/js/787.9f1de1c6.chunk.js": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js",
+    "static/media/1875_18.pdf": "/OldGzhatsk/static/media/1875_18.447d518a7045800445bb.pdf",
+    "static/media/1875_20.pdf": "/OldGzhatsk/static/media/1875_20.c7f7ee983f5f9a8a729b.pdf",
+    "static/media/1875_21.pdf": "/OldGzhatsk/static/media/1875_21.7b683a201120307597a3.pdf",
     "static/media/1873_6.pdf": "/OldGzhatsk/static/media/1873_6.5feca60ef1cd2c28ce35.pdf",
+    "static/media/1875_17.pdf": "/OldGzhatsk/static/media/1875_17.b47a8ca1e3b634e88361.pdf",
     "static/media/1873_5.pdf": "/OldGzhatsk/static/media/1873_5.13d99da180d1006f58de.pdf",
+    "static/media/1873_20.pdf": "/OldGzhatsk/static/media/1873_20.ea5c59c439bf730b915c.pdf",
+    "static/media/1873_16.pdf": "/OldGzhatsk/static/media/1873_16.7cc950256952a0bd30c7.pdf",
     "static/media/1873_4.pdf": "/OldGzhatsk/static/media/1873_4.e4fc9560a480efbdd29a.pdf",
     "static/media/1871_1.pdf": "/OldGzhatsk/static/media/1871_1.0636a6c33c985d077682.pdf",
+    "static/media/1903_1.pdf": "/OldGzhatsk/static/media/1903_1.4963c8911a43576788c1.pdf",
     "static/media/bricks2.png": "/OldGzhatsk/static/media/bricks2.cbdd8228a6413ff2b158.png",
     "static/media/1871_15.pdf": "/OldGzhatsk/static/media/1871_15.f6bc5d968020be822798.pdf",
+    "static/media/1873_7.pdf": "/OldGzhatsk/static/media/1873_7.d30cc615b9a0f8c007f3.pdf",
     "static/media/1870_12.pdf": "/OldGzhatsk/static/media/1870_12.736229ed6091cddbdcb6.pdf",
     "static/media/location2.png": "/OldGzhatsk/static/media/location2.14dcd34200173f0aa745.png",
     "static/media/ModernistThree.ttf": "/OldGzhatsk/static/media/ModernistThree.95982d19883664569a0d.ttf",
@@ -31,11 +39,11 @@
     "static/media/header-logo.png": "/OldGzhatsk/static/media/header-logo.68ea696b82d0bb65b213.png",
     "index.html": "/OldGzhatsk/index.html",
     "main.002f51c6.css.map": "/OldGzhatsk/static/css/main.002f51c6.css.map",
-    "main.55d554fd.js.map": "/OldGzhatsk/static/js/main.55d554fd.js.map",
+    "main.2e4c73c1.js.map": "/OldGzhatsk/static/js/main.2e4c73c1.js.map",
     "787.9f1de1c6.chunk.js.map": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.002f51c6.css",
-    "static/js/main.55d554fd.js"
+    "static/js/main.2e4c73c1.js"
   ]
 }
