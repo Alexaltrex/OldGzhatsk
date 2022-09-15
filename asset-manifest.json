@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OldGzhatsk/static/css/main.80ec400e.css",
-    "main.js": "/OldGzhatsk/static/js/main.5ca1850e.js",
+    "main.css": "/OldGzhatsk/static/css/main.78f823c0.css",
+    "main.js": "/OldGzhatsk/static/js/main.3f411ecc.js",
     "static/js/787.9f1de1c6.chunk.js": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js",
     "static/media/1877_09.pdf": "/OldGzhatsk/static/media/1877_09.f570486a3a7a5e23a423.pdf",
     "static/media/1875_18.pdf": "/OldGzhatsk/static/media/1875_18.447d518a7045800445bb.pdf",
@@ -19,8 +19,10 @@
     "static/media/1871_1.pdf": "/OldGzhatsk/static/media/1871_1.0636a6c33c985d077682.pdf",
     "static/media/1878_09.pdf": "/OldGzhatsk/static/media/1878_09.bbdd566a22cbfbb1cdf6.pdf",
     "static/media/1903_1.pdf": "/OldGzhatsk/static/media/1903_1.4963c8911a43576788c1.pdf",
+    "static/media/1880_13.pdf": "/OldGzhatsk/static/media/1880_13.090ba567ace3cc4ebb54.pdf",
     "static/media/bricks2.png": "/OldGzhatsk/static/media/bricks2.cbdd8228a6413ff2b158.png",
     "static/media/1871_15.pdf": "/OldGzhatsk/static/media/1871_15.f6bc5d968020be822798.pdf",
+    "static/media/1880_16.pdf": "/OldGzhatsk/static/media/1880_16.a6b0f8686ab4b1aef496.pdf",
     "static/media/1873_7.pdf": "/OldGzhatsk/static/media/1873_7.d30cc615b9a0f8c007f3.pdf",
     "static/media/1870_12.pdf": "/OldGzhatsk/static/media/1870_12.736229ed6091cddbdcb6.pdf",
     "static/media/location2.png": "/OldGzhatsk/static/media/location2.14dcd34200173f0aa745.png",
@@ -43,12 +45,12 @@
     "static/media/location3.png": "/OldGzhatsk/static/media/location3.b64e3b497621382901d5.png",
     "static/media/header-logo.png": "/OldGzhatsk/static/media/header-logo.68ea696b82d0bb65b213.png",
     "index.html": "/OldGzhatsk/index.html",
-    "main.80ec400e.css.map": "/OldGzhatsk/static/css/main.80ec400e.css.map",
-    "main.5ca1850e.js.map": "/OldGzhatsk/static/js/main.5ca1850e.js.map",
+    "main.78f823c0.css.map": "/OldGzhatsk/static/css/main.78f823c0.css.map",
+    "main.3f411ecc.js.map": "/OldGzhatsk/static/js/main.3f411ecc.js.map",
     "787.9f1de1c6.chunk.js.map": "/OldGzhatsk/static/js/787.9f1de1c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ec400e.css",
-    "static/js/main.5ca1850e.js"
+    "static/css/main.78f823c0.css",
+    "static/js/main.3f411ecc.js"
   ]
 }
